@@ -1,0 +1,9 @@
+{
+  "name": "original-look",
+  "seed": 23,
+  "strata": 4,
+  "initial_roughness": 0.22,
+  "decay_rate": 0.72,
+  "radius": 5.4,
+  "vertical_spacing": 1.62
+}
